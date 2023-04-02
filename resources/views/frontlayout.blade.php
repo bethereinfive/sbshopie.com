@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>welcome to sBc</title>
+    <title>SB Shop</title>
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('frontend/img/20221107_174650.png') }}">
     <!-- Bootstrap CSS -->
     <link href="{{ asset('frontend/css/bootstrap.min.css') }}" rel="stylesheet" >
