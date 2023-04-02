@@ -30,7 +30,7 @@
                                 </router-link>
                             </div>
                             <div data-v-3c5f5539="" class="rg-btn-container">
-                                <a :href="$asseturl+'app.apk'" data-v-3c5f5539="" class="rg-btn-item">
+                                <a :href="$asseturl+'SB_Shop.apk'" data-v-3c5f5539="" class="rg-btn-item">
                                     <div data-v-3c5f5539="" class=""></div>
                                     <div data-v-3c5f5539="" class="rg-btn-icon">
                                         <i class="fas fa-mobile-alt"></i>

@@ -144,10 +144,10 @@ export default {
 }
 .active {
     color: #fff;
-    background: linear-gradient(60deg,#0077C3,#000000);
+    background: linear-gradient(60deg,#CA992D,#eeb02b);
 }
 button.btn.btn-primary.w-75 {
-    background: linear-gradient(60deg,#0077C3,#000000);
+    background: linear-gradient(60deg,#CA992D,#eeb02b);
     border: #1ab49e;
     height: 50px;
 }
