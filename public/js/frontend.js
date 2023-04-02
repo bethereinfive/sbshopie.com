@@ -2245,7 +2245,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
       this.form.ref_by = this.$route.query.ref;
       this.refer = 1;
     } else {
-      this.form.ref_by = 'dSbeVOj';
+      this.form.ref_by = '25897';
       this.refercheck();
     }
 
